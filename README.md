@@ -90,12 +90,12 @@ To ensure fairness:
 - ❌ No submission of multiple models in a single PR  
 - ❌ No use of pretrained deep learning models unless approved  
 
----
+//---
 
-## 🕐 Submission Limits
+//## 🕐 Submission Limits
 
-- Each participant may submit **one Pull Request per day**.
-- Only the **latest submission** counts toward the leaderboard.
+//- Each participant may submit **one Pull Request per day**.
+//- Only the **latest submission** counts toward the leaderboard.
 
 ---
 
